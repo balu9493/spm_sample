@@ -1,0 +1,2 @@
+1. Created a new file and added to github
+2. Learning git
